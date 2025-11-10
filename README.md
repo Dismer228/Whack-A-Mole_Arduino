@@ -33,7 +33,6 @@
 - 4 × momentary push‑buttons  
 - 4 × 220 Ω resistors (for back‑light if needed)  
 - Breadboard, jumper wires, 5 V power (USB)  
-- (Optional) Piezo buzzer  
 
 ---
 
