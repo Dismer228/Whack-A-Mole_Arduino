@@ -37,12 +37,8 @@
 
 ---
 
-## Wiring Diagram  
-> Update pictures when available  
-![Example LCD Wiring](https://projects.arduinocontent.cc/cover-images/dc5ca491-1bee-454c-83e0-749c7fa13004.jpg)
-
 **Pin connections**:  
-- LCD: VSS→GND, VDD→+5 V, VO→GND via 4.7kΩ (contrast)  
+- LCD: VSS→GND, VDD→+5 V, VO→GND via 220Ω (contrast)  
 - LCD RS→D8, E→D9, D4→D10, D5→D11, D6→D12, D7→D13  
 - Back‑light A/K wiring w/ 220 Ω resistor if needed  
 - Buttons:  
