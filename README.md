@@ -50,7 +50,7 @@
 ---
 
 ## Code Overview  
-**File:** `WhackAMole_1602.ino`  
+**File:** `Uzd3.ino`  
 ### Key modules  
 - Timer1 ISR: increments `msTicks`, schedules game ticks  
 - External/Pin‑change interrupts: detect button press events  
